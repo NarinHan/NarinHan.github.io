@@ -7,7 +7,7 @@
 
 * * *
 
-! [GitHub Logo] (https://blog.kakaocdn.net/dn/WMhWC/btq9EhNjzB6/5a3Kjwy0eD4GwSbGL7aBz1/img.png "GitHub Logo")
+! [GitHub] (https://blog.kakaocdn.net/dn/WMhWC/btq9EhNjzB6/5a3Kjwy0eD4GwSbGL7aBz1/img.png "GitHub Logo")
 
 * * *
 

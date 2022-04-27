@@ -34,6 +34,6 @@
 * * *
 
 ## Markdown 사용법
-Link : [Markdown] [markdownlink]
 
-[markdownlink] : https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3-1 "Go to the Site"
+Very useful site to learn how to use [Markdown in Korean] (https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3-1).
+Official site is [this] (https://www.markdownguide.org/basic-syntax/).

@@ -7,7 +7,7 @@
 
 * * *
 
-! [GitHub] (https://blog.kakaocdn.net/dn/WMhWC/btq9EhNjzB6/5a3Kjwy0eD4GwSbGL7aBz1/img.png "GitHub Logo")
+! [GitHub] (/Desktop/github.jpg "GitHub Logo")
 
 * * *
 
@@ -30,3 +30,10 @@
 > > * bugfix 브랜치 분기 이후 master 브랜치의 상태가 변경 사항이 있는 경우
 > > * master 브랜치의 변경 내용과 bugfix 브랜치의 변경 내용을 하나로 통합해야함
 > > * 양 쪽의 변경을 가져온 merge commit 실행
+
+* * *
+
+## Markdown 사용법
+Link : [Markdown] [markdownlink]
+
+[markdownlink] : https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3-1 "Go to the Site"

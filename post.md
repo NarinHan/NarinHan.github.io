@@ -7,7 +7,7 @@
 
 * * *
 
-! [GitHub] (/Desktop/github.jpg "GitHub Logo")
+! [GitHub] (/Users/narinhan/Desktop/github.jpg "GitHub Logo")
 
 * * *
 
@@ -35,5 +35,5 @@
 
 ## Markdown 사용법
 
-Very useful site to learn how to use [Markdown in Korean] (https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3-1).
-Official site is [this] (https://www.markdownguide.org/basic-syntax/).
+Very useful site to learn how to use [Markdown in Korean](https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3-1).   
+Official site is [this](https://www.markdownguide.org/basic-syntax/).

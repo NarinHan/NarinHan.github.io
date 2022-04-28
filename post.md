@@ -7,7 +7,7 @@
 
 * * *
 
-! [GitHub](/Users/narinhan/Desktop/github.jpg "GitHub Logo")
+![GitHub](/Users/narinhan/Desktop/github.jpg "GitHub Logo")
 
 * * *
 

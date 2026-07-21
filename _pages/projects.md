@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Research and Engineering Projects
-nav: true
+nav: false
 nav_order: 3
 ---
 

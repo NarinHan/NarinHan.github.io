@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 nav: false
 nav_order: 1
@@ -13,7 +13,7 @@ profile:
   more_info:
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false
@@ -28,4 +28,30 @@ latest_posts:
 
 I am a graduate student in [SDEV Lab](https://sdevlab.github.io/) at [Chungbuk National University](https://www.cbnu.ac.kr/www/index.do), advised by Professor [Shin Hong](https://hongshin.github.io/).
 
-My research focuses on software engineering, with interests in software testing, AI for software engineering, fuzzing, and program analysis. I am interested in practical techniques for finding bugs, understanding program behavior, and improving software quality.
+My research focuses on **software engineering**, with interests in **software testing, AI for software engineering, fuzzing, and program analysis**. I am interested in practical techniques for finding bugs, understanding program behavior, and improving software quality.
+
+### Research Interests
+
+- Software Testing
+- AI for Software Engineering
+- Fuzzing
+- Program Analysis
+
+
+### Publications
+
+I am preparing my work for publication.
+
+This section will be updated as papers, preprints, and related artifacts become available.
+
+
+### Education
+
+- M.S. in Computer Science, Chungbuk National University, Republic of Korea (March 2025 - Present)
+- B.S. in AI, Computer Science and Engineering, Handong Global University, Republic of Korea (March 2021 - Feb. 2025)
+
+
+### Honors & Awards
+
+- Grant Awardee, Graduate Student Research Support Grant Program supported by NRF and MOE of Republic of Korea (Sept. 2025 - Present)
+- Academic Excellence Scholarship, HGU (2021 - 2024)

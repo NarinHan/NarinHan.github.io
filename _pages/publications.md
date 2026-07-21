@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: Research Interests and Current Directions I am Exploring
-nav: true
+nav: false
 nav_order: 2
 ---
 

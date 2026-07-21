@@ -4,7 +4,7 @@ permalink: /notes/
 title: Notes
 nav: true
 nav_order: 5
-description: Research and engineering notes.
+description: Research and Engineering Notes
 ---
 
 This page will collect short notes from my research and engineering work.

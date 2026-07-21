@@ -2,11 +2,15 @@
 layout: about
 title: About
 permalink: /
-nav: true
+nav: false
 nav_order: 1
-subtitle: Graduate student in software engineering
+subtitle: Graduate Student in Software Engineering
 
-profile: false
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info:
 
 selected_papers: false
 social: false

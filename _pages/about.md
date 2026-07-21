@@ -26,11 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
 I am a graduate student in [SDEV Lab](https://sdevlab.github.io/) at [Chungbuk National University](https://www.cbnu.ac.kr/www/index.do), advised by Professor [Shin Hong](https://hongshin.github.io/).
 
-My research focuses on **software engineering**, with interests in **software testing, AI for software engineering, fuzzing, and program analysis**. I am interested in practical techniques for finding bugs, understanding program behavior, and improving software quality.
+My research focuses on **software engineering**, with interests in **software testing**, **AI for software engineering**, **fuzzing**, and **program analysis**. I am interested in practical techniques for finding bugs, understanding program behavior, and improving software quality.
+
 
 ---
+
 
 ### Research Interests
 
@@ -39,7 +42,9 @@ My research focuses on **software engineering**, with interests in **software te
 - Fuzzing
 - Program Analysis
 
+
 ---
+
 
 ### Publications
 
@@ -50,18 +55,22 @@ This section will be updated as papers, preprints, and related artifacts become 
 
 ---
 
+
 ### Education
 
 - M.S. in Computer Science, Chungbuk National University, Republic of Korea (March 2025 - Present)
 - B.S. in AI, Computer Science and Engineering, Handong Global University, Republic of Korea (March 2021 - Feb. 2025)
 
+
 ---
+
 
 ### Honors & Awards
 
-- Grant Awardee, Master's Degree Research Support Grant Program supported by NRF and MOE of Republic of Korea (Sept. 2025 - Present)
+- Grant Awardee, Master's Degree Research Support Grant Program supported by NRF & MOE of Republic of Korea (Sept. 2025 - Present)
   - Project Title: LLM-guided Search Strategies for Directed Greybox Fuzzing
-- Academic Excellence Scholarship, Handong Global University (2021 - 2024)
+- Academic Excellence Scholarship Recipient, Handong Global University (2021 - 2024)
+
 
 <style>
   h3 {
@@ -73,11 +82,4 @@ This section will be updated as papers, preprints, and related artifacts become 
     margin: 2.75rem 0 1.35rem;
   }
 
-  .social .contact-icons {
-    font-size: 1.6rem;
-  }
-
-  .social .contact-icons a {
-    margin: 0 0.35rem;
-  }
 </style>

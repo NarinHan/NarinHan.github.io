@@ -30,6 +30,8 @@ I am a graduate student in [SDEV Lab](https://sdevlab.github.io/) at [Chungbuk N
 
 My research focuses on **software engineering**, with interests in **software testing, AI for software engineering, fuzzing, and program analysis**. I am interested in practical techniques for finding bugs, understanding program behavior, and improving software quality.
 
+---
+
 ### Research Interests
 
 - Software Testing
@@ -37,6 +39,7 @@ My research focuses on **software engineering**, with interests in **software te
 - Fuzzing
 - Program Analysis
 
+---
 
 ### Publications
 
@@ -45,13 +48,17 @@ I am preparing my work for publication.
 This section will be updated as papers, preprints, and related artifacts become available.
 
 
+---
+
 ### Education
 
 - M.S. in Computer Science, Chungbuk National University, Republic of Korea (March 2025 - Present)
 - B.S. in AI, Computer Science and Engineering, Handong Global University, Republic of Korea (March 2021 - Feb. 2025)
 
+---
 
 ### Honors & Awards
 
 - Grant Awardee, Graduate Student Research Support Grant Program supported by NRF and MOE of Republic of Korea (Sept. 2025 - Present)
-- Academic Excellence Scholarship, HGU (2021 - 2024)
+  - Project Title: LLM-guided Search Strategies for Directed Greybox Fuzzing
+- Academic Excellence Scholarship, Handong Global University (2021 - 2024)

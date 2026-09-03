@@ -3,8 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 github_username: NarinHan
 linkedin_username: narin-han
-custom_social:
-  logo: fa-brands fa-strava
-  title: Strava
-  url: https://strava.app.link/ybgwR6PZW4b
+#custom_social:
+#  logo: fa-brands fa-strava
+#  title: Strava
+#  url: https://strava.app.link/ybgwR6PZW4b
 email: narinhan@chungbuk.ac.kr

@@ -3,7 +3,7 @@ layout: page
 permalink: /notes/
 title: Notes
 nav: true
-nav_order: 5
+nav_order: 3
 description: Research and Engineering Notes
 ---
 

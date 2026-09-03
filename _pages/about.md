@@ -35,6 +35,14 @@ My research focuses on **software engineering**, with interests in **software te
 ---
 
 
+### News
+
+- **Aug. 2026**: Our paper, [**Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**](https://arxiv.org/abs/2608.07926), is available on arXiv and will be presented at [LMPL 2026](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026), a workshop co-located with SPLASH/ISSTA 2026.
+
+
+---
+
+
 ### Research Interests
 
 - Software Testing
@@ -48,9 +56,7 @@ My research focuses on **software engineering**, with interests in **software te
 
 ### Publications
 
-I am preparing my work for publication.
-
-This section will be updated as papers, preprints, and related artifacts become available.
+- Narin Han and Shin Hong. **Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**. arXiv:2608.07926 [cs.SE], 2026. To be presented at LMPL 2026, SPLASH/ISSTA 2026. [[arXiv](https://arxiv.org/abs/2608.07926)] [[LMPL](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026)]
 
 
 ---

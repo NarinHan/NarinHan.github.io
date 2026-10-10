@@ -58,9 +58,8 @@ My research focuses on **software engineering**, with interests in **software te
 
 ### Publications
 
-- K. Kim, N. Han, J. Kim, and S. Hong. **재귀적 탐색 전략을 활용한 실행경로 목표 지향 퍼징 (Effective Path-target Directed Greybox Fuzzing with Recursive Search Strategy)**. *KIISE Transactions on Computing Practices*, 32(8), Aug. 2026. Prior work to the LMPL 2026 paper. [[PDF](https://www.kiise.or.kr/e_journal/2026/8/KTCP/05.pdf)]
 - Narin Han and Shin Hong. **Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**. arXiv:2608.07926 [cs.SE], 2026. Presented at LMPL 2026, SPLASH/ISSTA 2026. [[arXiv](https://arxiv.org/abs/2608.07926)] [[LMPL](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026)]
-
+- K. Kim, N. Han, J. Kim, and S. Hong. **재귀적 탐색 전략을 활용한 실행경로 목표 지향 퍼징 (Effective Path-target Directed Greybox Fuzzing with Recursive Search Strategy)**. *KIISE Transactions on Computing Practices*, 32(8), Aug. 2026. [[PDF](https://www.kiise.or.kr/e_journal/2026/8/KTCP/05.pdf)]
 
 ---
 

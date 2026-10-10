@@ -37,7 +37,9 @@ My research focuses on **software engineering**, with interests in **software te
 
 ### News
 
-- **Aug. 2026**: Our paper, [**Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**](https://arxiv.org/abs/2608.07926), is available on arXiv and will be presented at [LMPL 2026](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026), a workshop co-located with SPLASH/ISSTA 2026.
+- **Oct. 2026**: I presented [**Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**](https://arxiv.org/abs/2608.07926) at [LMPL 2026](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026), a workshop co-located with SPLASH/ISSTA 2026.
+- **Aug. 2026**: Our paper, [**재귀적 탐색 전략을 활용한 실행경로 목표 지향 퍼징 (Effective Path-target Directed Greybox Fuzzing with Recursive Search Strategy)**](https://www.kiise.or.kr/e_journal/2026/8/KTCP/05.pdf), was published in *KIISE Transactions on Computing Practices*, 32(8).
+- **Aug. 2026**: Our paper, [**Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**](https://arxiv.org/abs/2608.07926), became available on arXiv.
 
 
 ---
@@ -56,7 +58,8 @@ My research focuses on **software engineering**, with interests in **software te
 
 ### Publications
 
-- Narin Han and Shin Hong. **Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**. arXiv:2608.07926 [cs.SE], 2026. To be presented at LMPL 2026, SPLASH/ISSTA 2026. [[arXiv](https://arxiv.org/abs/2608.07926)] [[LMPL](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026)]
+- K. Kim, N. Han, J. Kim, and S. Hong. **재귀적 탐색 전략을 활용한 실행경로 목표 지향 퍼징 (Effective Path-target Directed Greybox Fuzzing with Recursive Search Strategy)**. *KIISE Transactions on Computing Practices*, 32(8), Aug. 2026. Prior work to the LMPL 2026 paper. [[PDF](https://www.kiise.or.kr/e_journal/2026/8/KTCP/05.pdf)]
+- Narin Han and Shin Hong. **Refining LLM-based Directed Test Input Generation via Runtime Value Feedback**. arXiv:2608.07926 [cs.SE], 2026. Presented at LMPL 2026, SPLASH/ISSTA 2026. [[arXiv](https://arxiv.org/abs/2608.07926)] [[LMPL](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026)]
 
 
 ---
@@ -73,7 +76,7 @@ My research focuses on **software engineering**, with interests in **software te
 
 ### Honors & Awards
 
-- Grant Awardee, Master's Degree Research Support Grant Program supported by NRF & MOE of Republic of Korea (Sept. 2025 - Present)
+- Grant Awardee, Master's Degree Research Support Grant Program supported by NRF & MOE of Republic of Korea (Sept. 2025 - Aug. 2026)
   - Project Title: LLM-guided Search Strategies for Directed Greybox Fuzzing
 - Academic Excellence Scholarship Recipient, Handong Global University (2021 - 2024)
 
